@@ -1,0 +1,15 @@
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\bin\Debug\net6.0\Quizz_Correction.exe
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\bin\Debug\net6.0\Quizz_Correction.deps.json
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\bin\Debug\net6.0\Quizz_Correction.runtimeconfig.json
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\bin\Debug\net6.0\Quizz_Correction.dll
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\bin\Debug\net6.0\Quizz_Correction.pdb
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.csproj.AssemblyReference.cache
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.AssemblyInfoInputs.cache
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.AssemblyInfo.cs
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.csproj.CoreCompileInputs.cache
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.dll
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\refint\Quizz_Correction.dll
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.pdb
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\Quizz_Correction.genruntimeconfig.cache
+C:\Users\IntervenantV\source\repos\OPP_LA_MANU\Quizz_Correction\Quizz_Correction\obj\Debug\net6.0\ref\Quizz_Correction.dll
